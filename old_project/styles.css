@@ -1,0 +1,72 @@
+
+/*this is an example of how to make unseen notes in css*/
+.title {
+    color: rgb(61, 15, 61);
+    font-family: 'Copperplate Gothic Light';
+    font-size: 40px;
+    text-align: center;
+    font-weight: 20px;
+ }
+ 
+ .Explanations {
+     text-align: center;
+     
+ }
+ h2 {
+     text-align: center;
+
+ }
+ 
+ li {
+     text-align: center;
+ }
+ p {
+   color: black;
+   font-family: Perpetua;
+   font-size: 20px;
+   text-align: center;
+   }
+   
+ .background {
+   background-color: PaleGoldenRod;
+ }
+ 
+ .uwu {
+   font-size: 40px;
+   font-family: Comic Sans MS;
+   color: purple;
+   }
+ 
+ .flower {
+   color: darkred;
+   font-size: 40px;
+   text-decoration: none;
+
+  #testing {
+      text-align: left;
+  }
+
+ 
+
+ 
+ .link {
+     color: Lightcoral;
+     text-align: center;
+ }
+
+ .test {
+     background-color: white;
+ }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
